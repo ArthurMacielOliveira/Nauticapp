@@ -12,13 +12,12 @@
         android:id="@+id/imageView3"
         android:layout_width="258dp"
         android:layout_height="300dp"
-        android:layout_marginEnd="256dp"
-        android:background="@drawable/jet"
+        android:layout_marginEnd="224dp"
+        android:src="@drawable/jet"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.529"
-        app:srcCompat="@drawable/jet" />
+        app:layout_constraintVertical_bias="0.535" />
 
     <ImageView
         android:id="@+id/imageView4"
@@ -26,11 +25,11 @@
         android:layout_height="580dp"
         android:layout_marginStart="118dp"
         android:layout_marginTop="500dp"
-        android:background="@drawable/iiate"
+        android:background="@android:color/transparent"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/iiate" />
+        android:src="@drawable/iiate" />
 
     <TextView
         android:id="@+id/textView6"
