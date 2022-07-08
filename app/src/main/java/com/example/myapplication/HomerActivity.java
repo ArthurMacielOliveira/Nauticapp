@@ -11,13 +11,4 @@ public class HomerActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_homer);
-        ImageView imageView3 = (ImageView) findViewById(R.id.imageView3);
-        imageView3.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent act2 = new Intent(view.getContext(), HomerActivity.class);
-                startActivity(act2);
-            }
-        });
-    }
-}
+    }}
