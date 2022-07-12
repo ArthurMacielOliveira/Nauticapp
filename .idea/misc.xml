@@ -3,7 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Aluno/Documents/Arthur-Oliveira-3A/Nauticapp/app/src/main/res/drawable/activity_dash.xml" value="0.149" />
+        <entry key="..\:/Users/Aluno/Documents/Arthur-Oliveira-3A/Nauticapp/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.149" />
+        <entry key="..\:/Users/Aluno/Documents/Arthur-Oliveira-3A/Nauticapp/app/src/main/res/drawable/ic_baseline_view_headline_24.xml" value="0.149" />
+        <entry key="..\:/Users/Aluno/Documents/Arthur-Oliveira-3A/Nauticapp/app/src/main/res/layout/activity_dash.xml" value="0.18055555555555555" />
         <entry key="..\:/Users/Aluno/Documents/Arthur-Oliveira-3A/Nauticapp/app/src/main/res/layout/activity_homer.xml" value="0.18" />
+        <entry key="..\:/Users/Aluno/Documents/Arthur-Oliveira-3A/Nauticapp/app/src/main/res/layout/activity_homerr.xml" value="0.1388888888888889" />
         <entry key="..\:/Users/Aluno/Documents/Arthur-Oliveira-3A/Nauticapp/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/Aluno/Documents/Arthur-Oliveira-3A/Nauticapp/app/src/main/res/layout/activity_menu.xml" value="0.2604166666666667" />
         <entry key="..\:/Users/Aluno/Documents/Arthur-Oliveira-3A/Nauticapp/app/src/main/res/layout/activity_splash.xml" value="0.25" />

@@ -81,7 +81,7 @@
 
     <TextView
         android:id="@+id/textView9"
-        android:layout_width="wrap_content"
+        android:layout_width="411dp"
         android:layout_height="wrap_content"
         android:fontFamily="@font/chau"
         android:text='Se você possui os dois, registre um por vez, para registrar outro equipamento vá na seção "Meus Equipamentos"'
@@ -89,7 +89,8 @@
         android:textSize="20sp"
         app:layout_constraintBottom_toTopOf="@+id/imageView4"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView8"
-        app:layout_constraintVertical_bias="0.161" />
+        app:layout_constraintVertical_bias="0.201" />
 </androidx.constraintlayout.widget.ConstraintLayout>
