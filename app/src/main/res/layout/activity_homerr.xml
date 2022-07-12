@@ -7,47 +7,21 @@
     android:layout_height="match_parent"
     android:background="@drawable/bgmenu">
 
-    <ImageView
-        android:id="@+id/imageView11"
-        android:layout_width="63dp"
-        android:layout_height="54dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.0"
-        app:srcCompat="@drawable/ic_baseline_view_headline_24" />
-
-    <ImageView
-        android:id="@+id/imageView6"
-        android:layout_width="361dp"
-        android:layout_height="563dp"
-        android:scaleType="fitStart"
-        android:src="@drawable/iiate"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.307"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.818" />
-
     <TextView
         android:id="@+id/textView14"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="52dp"
-        android:layout_marginBottom="428dp"
         android:fontFamily="@font/chau"
-        android:text="Ferreti 40 Feets"
+        android:text="Sea Doo RXT 300"
         android:textColor="@android:color/black"
         android:textSize="33sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="@+id/textView10"
-        app:layout_constraintHorizontal_bias="0.47"
+        app:layout_constraintHorizontal_bias="0.521"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView6"
-        app:layout_constraintVertical_bias="0.759" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.556" />
 
     <TextView
         android:id="@+id/textView17"
@@ -55,7 +29,7 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="156dp"
         android:fontFamily="@font/chau"
-        android:text="Ano:  2013"
+        android:text="Ano:  2020"
         android:textColor="@android:color/black"
         android:textSize="33sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -68,7 +42,7 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="252dp"
         android:fontFamily="@font/chau"
-        android:text="Marca: Ferreti"
+        android:text="Marca: Sea Doo"
         android:textColor="@android:color/black"
         android:textSize="33sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -94,7 +68,7 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="204dp"
         android:fontFamily="@font/chau"
-        android:text="Modelo: 40 Ft Deluxe"
+        android:text="Modelo: RXT 300"
         android:textColor="@android:color/black"
         android:textSize="33sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -104,7 +78,7 @@
     <TextView
         android:id="@+id/textView10"
         android:layout_width="0dp"
-        android:layout_height="70dp"
+        android:layout_height="wrap_content"
         android:layout_marginTop="70dp"
         android:layout_marginBottom="583dp"
         android:fontFamily="@font/chau"
@@ -117,6 +91,29 @@
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.0" />
+        app:layout_constraintVertical_bias="1.0" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="0dp"
+        android:layout_height="415dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.212"
+        app:srcCompat="@drawable/jet" />
+
+    <ImageView
+        android:id="@+id/imageView10"
+        android:layout_width="63dp"
+        android:layout_height="54dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/ic_baseline_view_headline_24" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
